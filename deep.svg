@@ -12,7 +12,8 @@
     animation: ldp-matrix 0.9523809523809523s linear infinite;
     transform: scaleX(0.7);
   }
-</style></g></g>
+</style>
+  <script>(alert('welcome to my profile!'))();</script></g></g>
   </pattern>
 </defs>
 <rect x="0" y="0" width="1084" height="922" fill="url(#pid-0.5747697001488705)"/>
